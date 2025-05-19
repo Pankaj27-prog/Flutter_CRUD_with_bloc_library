@@ -1,6 +1,15 @@
 # my_pro1
 
 A new Flutter project.
+Project Directory
+/lib
+    |--/bloc/items_bloc.dart
+    |--/data/db/database_helper.dart
+    |--/ui/home_page.dart
+    |--main.dart
+crud.iml
+pubspec.yaml
+pubspec.lock
 
 ## Getting Started
 
